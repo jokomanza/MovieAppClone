@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "968936936720",
+    "project_id": "movieappclone",
+    "storage_bucket": "movieappclone.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:968936936720:android:4c42e45a5832df88b5c195",
+        "android_client_info": {
+          "package_name": "com.joko.movieappclone"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "968936936720-1tiist2fb9526nt4j0vegdaeh1f4c9ni.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDYhGQ4SjigqitAI5JcCkaJASKkmiGp1jw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "968936936720-1tiist2fb9526nt4j0vegdaeh1f4c9ni.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
